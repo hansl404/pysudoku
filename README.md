@@ -6,6 +6,8 @@ A sudoku solver created with Python. This project was coded with the help of Tec
 Change the contents of the board array to match the sudoku puzzle to be solved. Leave all blanks as 0's. Incorrect inputs (same numbers in same row, col, or square) will generate an error message giving the row, column, or square where the duplication was found.
 
 To run...
-    python3 sudoku.py
+```
+python3 sudoku.py
+```
 
 
