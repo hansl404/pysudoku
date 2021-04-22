@@ -1,0 +1,3 @@
+# pysudoku
+
+Sodoku solver
